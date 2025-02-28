@@ -1,0 +1,1 @@
+export type AcceptedLanguages = 'fi_FI' | 'en_US' | 'de_DE'
